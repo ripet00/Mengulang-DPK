@@ -1,0 +1,5 @@
+// char * argv  => pointer to char
+
+// char * argv[] => pointer to array
+
+// ** argv => pointer to pointer
